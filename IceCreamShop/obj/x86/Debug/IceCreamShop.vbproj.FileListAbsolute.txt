@@ -1,0 +1,12 @@
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.exe
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.pdb
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\bin\Debug\IceCreamShop.xml
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.Resources.resources
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.exe
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.xml
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.pdb
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.FrmMain.resources
+C:\Data\My Works\VB.NET\IceCreamShop\IceCreamShop\obj\x86\Debug\IceCreamShop.SplashScreen1.resources

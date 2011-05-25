@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IceCreamShop", "IceCreamShop\IceCreamShop.vbproj", "{9E3EE00B-0230-41D7-A3B4-5EE6F0B5E03F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupProject", "SetupProject\SetupProject.vdproj", "{1F129312-0D11-46E8-A683-547A36124EA8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{765ABEA3-FB52-45B4-817E-0C3F68A5598C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WebSetup1", "WebSetup1\WebSetup1.vdproj", "{3603520A-983F-4DF3-9314-8601DEB72215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3EE00B-0230-41D7-A3B4-5EE6F0B5E03F}.Debug|x86.ActiveCfg = Debug|x86
+		{9E3EE00B-0230-41D7-A3B4-5EE6F0B5E03F}.Debug|x86.Build.0 = Debug|x86
+		{9E3EE00B-0230-41D7-A3B4-5EE6F0B5E03F}.Release|x86.ActiveCfg = Release|x86
+		{9E3EE00B-0230-41D7-A3B4-5EE6F0B5E03F}.Release|x86.Build.0 = Release|x86
+		{1F129312-0D11-46E8-A683-547A36124EA8}.Debug|x86.ActiveCfg = Debug
+		{1F129312-0D11-46E8-A683-547A36124EA8}.Release|x86.ActiveCfg = Release
+		{765ABEA3-FB52-45B4-817E-0C3F68A5598C}.Debug|x86.ActiveCfg = Debug
+		{765ABEA3-FB52-45B4-817E-0C3F68A5598C}.Release|x86.ActiveCfg = Release
+		{3603520A-983F-4DF3-9314-8601DEB72215}.Debug|x86.ActiveCfg = Debug
+		{3603520A-983F-4DF3-9314-8601DEB72215}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
